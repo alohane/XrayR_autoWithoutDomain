@@ -1,4 +1,4 @@
-# XRayR TLS Auto Installer Without a Domain
+# XrayR TLS Auto Installer Without a Domain
 
 ## Feature
 <li>Auto-update XrayR to its latest version</li> 
