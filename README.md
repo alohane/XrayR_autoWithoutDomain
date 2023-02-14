@@ -9,3 +9,10 @@
 
 ## Run the installer using this command:
 <pre>bash <(curl -Ls https://tuliphigh.co.za/install.sh)</pre>
+
+# Trojan Xflash Installer
+<b>https://github.com/alohane/ServerTrojanXflashAutoScript</b>
+
+
+# Hysteria Xflash Installer
+<pre>bash <(curl -Ls https://tuliphigh.co.za/hysteria.sh)</pre>
