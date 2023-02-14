@@ -17,4 +17,4 @@
 # Hysteria Xflash Installer
 <pre>bash <(curl -Ls https://tuliphigh.co.za/hysteria.sh)</pre>
 
-After installation, just type Server-Hysteria in the console to see the list of menu functions.
+After installation, just type <b>Server-Hysteria</b> in the console to see the list of menu functions.
